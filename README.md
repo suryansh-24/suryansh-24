@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryansh-24
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning developing front end of web-development.
-- 😄 Pronouns: He/Him
+- contact me at 108suryanshsingh@gamil.com
   
 
 <!---
